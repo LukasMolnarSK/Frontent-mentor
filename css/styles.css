@@ -1,0 +1,70 @@
+body{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  width: 375px;
+  margin: auto;
+}
+
+p{
+  color: grey;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+div{
+  width: 375px;
+  border-width: thin;
+  border-top-width: 6px;
+  border-style: outset;
+  border-radius: 10px;
+  box-shadow: 7px 8px 4px rgba(0, 0, 0, .3);
+  margin: 50px 0 10px 0;
+  text-align: left;
+}
+
+.nadpis{
+  font-weight: lighter;
+  color:grey;
+
+}
+
+.nadpis2{
+  font-weight: 600;
+}
+
+.loupe{
+  position: relative;
+  left: 250px;
+  width: 30%;
+}
+.home{
+  position: relative;
+  left: 250px;
+  width: 30%;
+}
+.bulb{
+  position: relative;
+  left: 250px;
+  width: 30%;
+}
+.monitor{
+  position: relative;
+  left: 250px;
+  width: 30%;
+}
+.supervisor{
+  border-top-color: turquoise;
+}
+
+.team-builder{
+  border-top-color:red;
+}
+
+.karma{
+  border-top-color:gold;
+
+}
+.calculator{
+  border-top-color:blue;
+}
