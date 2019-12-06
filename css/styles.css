@@ -10,10 +10,11 @@ p{
   color: grey;
   margin: auto;
   margin-bottom: 30px;
+  margin-left: 10px;
 }
 
 div{
-  width: 375px;
+  width:auto ;
   border-width: thin;
   border-top-width: 6px;
   border-style: outset;
@@ -21,6 +22,10 @@ div{
   box-shadow: 7px 8px 4px rgba(0, 0, 0, .3);
   margin: 50px 0 10px 0;
   text-align: left;
+}
+
+h3{
+  margin-left: 10px;
 }
 
 .nadpis{
